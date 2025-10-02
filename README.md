@@ -1,4 +1,4 @@
-//My first program :- Ganesh.c
+//My first program : Ganesh.c
 #include<stdio.h>
 
 int main()
