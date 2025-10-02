@@ -1,2 +1,10 @@
-# C_programming
-C_programming
+//My first program : Ganesh.c
+#include<stdio.h>
+
+int main()
+{
+    printf("Jay Ganesh...\n");
+
+
+    return 0;
+}
